@@ -1,0 +1,121 @@
+﻿define({ entries : {
+    "chen2023stock": {
+        "author": "Chen, Xinran",
+        "journal": "International Journal of Financial Engineering",
+        "keywords": "machine learning, deep learning, LSTM, GRU, stock prediction, survey paper",
+        "number": "4",
+        "pages": "200--210",
+        "publisher": "IJFE",
+        "title": "Stock Price Prediction Using Machine Learning Strategies",
+        "type": "article",
+        "volume": "5",
+        "year": "2023"
+    },
+    "gowda2024stock": {
+        "author": "Gowda, Ramesh and Kumar, Suresh and Patel, Anil",
+        "journal": "International Journal of Data Science",
+        "keywords": "linear regression, LSTM, CNN, investors, financial analysts, deep learning",
+        "number": "1",
+        "pages": "25--32",
+        "publisher": "IJDS",
+        "title": "Stock Price Trend Analysis and Prediction Using Machine Learning",
+        "type": "article",
+        "volume": "5",
+        "year": "2024"
+    },
+    "kumar2023stock": {
+        "author": "Kumar, Anil and Sharma, Priya and Gupta, Rohit",
+        "journal": "International Journal of Advanced Research in Computer Science",
+        "keywords": "machine learning, LSTM, stock prediction, artificial intelligence, deep learning",
+        "number": "1",
+        "pages": "50--56",
+        "publisher": "IJARCS",
+        "title": "Stock Price Prediction Using Machine Learning",
+        "type": "article",
+        "volume": "14",
+        "year": "2023"
+    },
+    "kumar2024enhancing": {
+        "author": "Kumar, Sathis and Raj, Deepa and Singh, Vikram",
+        "journal": "International Journal of Data Visualization",
+        "keywords": "forecasting, random forest, dashboard, visualization, yfinance, hybrid methods",
+        "number": "2",
+        "pages": "45--52",
+        "publisher": "IJDV",
+        "title": "Enhancing Stock Price Forecasting with Dash-Based Visualization",
+        "type": "article",
+        "volume": "3",
+        "year": "2024"
+    },
+    "medarhri2022predicting": {
+        "author": "Medarhri, Amina and Singh, Raj and Kumar, Rahul",
+        "journal": "International Journal of Computer Science and Information Security",
+        "keywords": "ANN, SVR, random forest, decision trees, hybrid, stock market, hybrid methods",
+        "number": "4",
+        "pages": "67--74",
+        "publisher": "IJCSIS",
+        "title": "Predicting Stock Market Price Movement using Machine Learning Techniques",
+        "type": "article",
+        "volume": "20",
+        "year": "2022"
+    },
+    "rahman2024machine": {
+        "author": "Rahman, Ansari Abdur",
+        "journal": "International Journal of Scientific Research in Computer Science, Engineering and Information Technology",
+        "keywords": "data collection, real-time update, SVM, visualization, regression, hybrid methods",
+        "number": "2",
+        "pages": "45--50",
+        "publisher": "IJSRCSEIT",
+        "title": "Machine Learning Project in Python to Predict Stock Price",
+        "type": "article",
+        "volume": "9",
+        "year": "2024"
+    },
+    "singh2024intelligent": {
+        "author": "Singh, Anjum",
+        "journal": "Journal of Artificial Intelligence Research",
+        "keywords": "interactive dashboard, CNN, visualization, forecasting, hybrid methods",
+        "number": "3",
+        "pages": "123--130",
+        "title": "Intelligent Visualization and Forecasting of Stocks Using Machine Learning",
+        "type": "article",
+        "volume": "12",
+        "year": "2024"
+    },
+    "thakurdesai2024stock": {
+        "author": "Thakurdesai, Amogh",
+        "journal": "International Journal of Computer Applications",
+        "keywords": "stock prediction, machine learning, LSTM, RNN, GRU, CNN, deep learning",
+        "number": "22",
+        "pages": "1--5",
+        "publisher": "Foundation of Computer Science (FCS), NY, USA",
+        "title": "Stock Price Prediction Using Machine Learning",
+        "type": "article",
+        "volume": "177",
+        "year": "2024"
+    },
+    "wong2023forecasting": {
+        "author": "Wong, Li and Chen, Mei and Tan, Wei",
+        "journal": "Journal of Financial Data Science",
+        "keywords": "support vector regression, multilayer perceptron, random forest, XGBoost, stock price prediction, algorithmic trading, traditional methods",
+        "number": "2",
+        "pages": "88--95",
+        "publisher": "JFDS",
+        "title": "Forecasting of Stock Prices Using Machine Learning Models",
+        "type": "article",
+        "volume": "7",
+        "year": "2023"
+    },
+    "yao2022stock": {
+        "author": "Yao, Ming and Li, Jun and Zhao, Ling",
+        "journal": "Journal of Computational Finance",
+        "keywords": "stock price prediction, machine learning, neural networks, deep learning",
+        "number": "3",
+        "pages": "100--110",
+        "publisher": "JCF",
+        "title": "Stock Price Analysis and Forecasting Based on Machine Learning",
+        "type": "article",
+        "volume": "10",
+        "year": "2022"
+    }
+}});
